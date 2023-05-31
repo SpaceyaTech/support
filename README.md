@@ -43,15 +43,12 @@
 
   - Click on the highlighted area:
 
-    ![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
 
   - Enter your username in the highlighted search bar:
 
-    ![screenshot](https://user-images.githubusercontent.com/13745974/102218327-b3c63680-3ed5-11eb-9295-aafa5e59ebfd.png)
 
   - Click `Private` (the default) and set it to `Public`
 
-    ![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
 
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieHubCommunity/support/issues/94).
 - **What is DevRel?** Check out the discussion on [this issue](https://github.com/EddieHubCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).

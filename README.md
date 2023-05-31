@@ -1,4 +1,4 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eddiehubcommunity/support)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/SpaceyaTech/support)
 
 # Community Support
 
@@ -36,9 +36,9 @@
 
 ## FAQs
 
-- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be - [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook), and of course [EddieHub](https://github.com/EddieHubCommunity).
+- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be - [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook), and of course [SpaceYaTech](https://github.com/SpaceyaTech).
   Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
-- **How do I join the Github Organization?** Raise an issue on this repository asking to join ([invite me](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
+- **How do I join the Github Organization?** Raise an issue on this repository asking to join ([invite me](https://github.com/SpaceYaTech/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
 - **How do I set the Organization to Public?**
 
   - Navigate to our community page: https://github.com/SpaceyaTech

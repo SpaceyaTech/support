@@ -6,7 +6,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[Join the Discord Community](http://discord.spaceyatech.org) — [Subscribe to SpaceyaTech's YouTube channel](https://www.youtube.com/user/)
+[Join the Discord Community](https://discord.gg/vXPp7QH68H) — [Subscribe to SpaceyaTech's YouTube channel](https://www.youtube.com/user/)
 
 ---
 
